@@ -18,7 +18,7 @@ def list_dwarves(array)
   array.each_with_index do | item, index|
 index > 0
 
-  p item.index
+  p item index
 
 
 

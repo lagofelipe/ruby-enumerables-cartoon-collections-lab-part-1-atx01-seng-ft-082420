@@ -19,7 +19,7 @@ def list_dwarves(array)
  index > 0
  count = 
 
-  
+
 
 
 
